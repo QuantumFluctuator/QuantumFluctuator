@@ -2,7 +2,7 @@
 Here I host various software and tools which I have created in previous years in addition to some forks of projects I found interesting.
 
 My favourite projects:
-- [Next Document Manager](https://github.com/QuantumFluctuator/GSDP-Next-Document-Management) (my third year university group professionalism project)
+- [Next Document Manager](https://github.com/QuantumFluctuator/GSDP-Next-Document-Management) (my third year university group professionalism project developed for Next PLC Representatives)
 - [Sorter](https://github.com/QuantumFluctuator/Sorter) (a fun project made to represent several sorting methods graphically in Java)
 - [Bean Machine Simulator](https://github.com/QuantumFluctuator/Bean-Machine) (a project made in my university Object Oriented Programming module to test C++ heap memory cleanup)
 - [Simple Assembly Calculator](https://github.com/QuantumFluctuator/Simple-Assembly-Calculator) (a simple calculator I made to test my assembly knowledge)
